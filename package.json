@@ -1,0 +1,23 @@
+{
+  "name": "js-patterns",
+  "version": "1.0.0",
+  "description": "My code about JS Design Patterns",
+  "main": "exports.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeMustFly/js-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeMustFly/js-patterns/issues"
+  },
+  "homepage": "https://github.com/WeMustFly/js-patterns#readme"
+}
